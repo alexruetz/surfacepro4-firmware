@@ -1,6 +1,6 @@
 Name:           surfacepro4-firmware
 Version:        1.0 
-Release:        1%{?dist}
+Release:        2%{?dist}
 Summary:        Packaged IPTS and Wifi firmware for Surface Pro 4 
 
 License:        GPLv3+ 
